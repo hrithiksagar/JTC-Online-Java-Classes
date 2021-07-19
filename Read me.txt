@@ -1,2 +1,36 @@
 This repository contains all the information shared by JTC Online Classes on Java Programming.
 here is the link for official website: http://jtcindia.org/
+
+Syllabus
+Topic per class: 
+1. Introduction [Introduse the basic terms and installation process]
+2. Java Language [Basic, Literals, Operator]
+3. Java Language [Control Statement, Arrav
+4. OOPS [Basic, Variable and Block
+5. OOPS [Method, Method Overloading]
+6. OOPS[this keyword, Constructor]
+7. OOPS[Inheritance]
+8. OOPS(Polymorphism)
+9. OOPS(Abstract class and Interface)
+10. oops(Inner Class)
+11. Package
+12. java.lang package (Object)
+13. java.lang package (String, StringBuffer and StringBuilder)
+14. java.lang package (System,Singalton Design Pattern, Runtime)
+15. Exception Handling (Introduction, Type of Exception, try-catch)
+16. Exception Handling(User-define Exception, throw and throws, finally block)
+17. Multi-Threading()
+18. Multi-Threading(
+19. Collection Framewor
+20. Collection Framework
+21. JDBC
+22. JDBC
+23. JDBC
+24. Servlet
+25. Servlet
+26. Servlet
+27. Servlet
+28. JSP
+29. JSP
+30. JSP
+
